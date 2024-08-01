@@ -1,0 +1,16 @@
+* {
+    background-color: paleturquoise;
+}
+
+.main {
+    text-align: center;
+}
+
+li {
+    text-align: left;
+}
+
+.list {
+    width: max-content;
+    margin: 0 auto;
+}
